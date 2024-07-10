@@ -1,7 +1,298 @@
 ﻿@page "/"
+@rendermode InteractiveServer
+@inject ProtectedSessionStorage ProtectedSessionStore
 
-<PageTitle>Home</PageTitle>
+<PageTitle>Character Stats</PageTitle>
 
-<h1>Hello, world!</h1>
+<h1>Character Stats</h1>
 
-Welcome to your new app.
+<div class="container">
+	<div class="row">
+		<div class="col">
+			<div class="container mb-5">
+				<h4>Level and Class</h4>
+				<div class="row">
+					<div class="col text-start">
+						Class
+					</div>
+					<div class="col text-end">
+						<select @bind=player.Class @bind:after=UpdateClass>
+							<option>Hero</option>
+							<option>Bandit</option>
+							<option>Astrologer</option>
+							<option>Warrior</option>
+							<option>Prisoner</option>
+							<option>Confessor</option>
+							<option>Wretch</option>
+							<option>Vagabond</option>
+							<option>Prophet</option>
+							<option>Samurai</option>
+							<option>Custom</option>
+						</select>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col text-start">
+						Level
+					</div>
+					<div class="col text-end">
+						<input class="w-50" type="number" min="1" max="712" @bind=player.Level @bind:after=UpdateStats />
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<h4>Attribute Points</h4>
+				<div class="row">
+					<div class="col text-start">
+						Vigor
+					</div>
+					<div class="col text-end">
+						<input class="w-50" type="number" min="1" max="99" @bind:after=UpdateStats @bind=player.Stats[0] />
+					</div>
+				</div>
+				<div class="row">
+					<div class="col text-start">
+						Mind
+					</div>
+					<div class="col text-end">
+						<input class="w-50" type="number" min="1" max="99" @bind:after=UpdateStats @bind=player.Stats[1] />
+					</div>
+				</div>
+				<div class="row">
+					<div class="col text-start">
+						Endurance
+					</div>
+					<div class="col text-end">
+						<input class="w-50" type="number" min="1" max="99" @bind:after=UpdateStats @bind=player.Stats[2] />
+					</div>
+				</div>
+				<div class="row">
+					<div class="col text-start">
+						Strength
+					</div>
+					<div class="col text-end">
+						<input class="w-50" type="number" min="1" max="99" @bind:after=UpdateStats @bind=player.Stats[3] />
+					</div>
+				</div>
+				<div class="row">
+					<div class="col text-start">
+						Dexteriry
+					</div>
+					<div class="col text-end">
+						<input class="w-50" type="number" min="1" max="99" @bind:after=UpdateStats @bind=player.Stats[4] />
+					</div>
+				</div>
+				<div class="row">
+					<div class="col text-start">
+						Intelligence
+					</div>
+					<div class="col text-end">
+						<input class="w-50" type="number" min="1" max="99" @bind:after=UpdateStats @bind=player.Stats[5] />
+					</div>
+				</div>
+				<div class="row">
+					<div class="col text-start">
+						Faith
+					</div>
+					<div class="col text-end">
+						<input class="w-50" type="number" min="1" max="99" @bind:after=UpdateStats @bind=player.Stats[6] />
+					</div>
+				</div>
+				<div class="row">
+					<div class="col text-start">
+						Arcane
+					</div>
+					<div class="col text-end">
+						<input class="w-50" type="number" min="1" max="99" @bind:after=UpdateStats @bind=player.Stats[7] />
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col">
+			<div class="container mb-5">
+				<h4>Base Stats</h4>
+				<div class="row">
+					<div class="col text-start">
+						HP
+					</div>
+					<div class="col text-end">
+						@player.HP
+					</div>
+				</div>
+				<div class="row">
+					<div class="col text-start">
+						FP
+					</div>
+					<div class="col text-end">
+						@player.FP
+					</div>
+				</div>
+				<div class="row mb-3">
+					<div class="col text-start">
+						Stamina
+					</div>
+					<div class="col text-end">
+						@player.SP
+					</div>
+				</div>
+				<div class="row mb-3">
+					<div class="col text-start">
+						Max Equip Load
+					</div>
+					<div class="col text-end">
+						@player.EquipLoad
+					</div>
+				</div>
+				<div class="row">
+					<div class="col text-start">
+						Poise
+					</div>
+					<div class="col text-end">
+						@player.Poise
+					</div>
+				</div>
+				<div class="row">
+					<div class="col text-start">
+						Discovery
+					</div>
+					<div class="col text-end">
+						@player.Discovery
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col">
+			<div class="container mb-5">
+				<h4>Defense Power</h4>
+				<div class="row">
+					<div class="col text-start">
+						Physical
+					</div>
+					<div class="col text-end">
+						@player.Defenses[0]
+					</div>
+				</div>
+				<div class="row">
+					<div class="col text-start">
+						VS Strike
+					</div>
+					<div class="col text-end">
+						@player.Defenses[1]
+					</div>
+				</div>
+				<div class="row">
+					<div class="col text-start">
+						VS Slash
+					</div>
+					<div class="col text-end">
+						@player.Defenses[2]
+					</div>
+				</div>
+				<div class="row">
+					<div class="col text-start">
+						VS Pierce
+					</div>
+					<div class="col text-end">
+						@player.Defenses[3]
+					</div>
+				</div>
+				<div class="row">
+					<div class="col text-start">
+						Magic
+					</div>
+					<div class="col text-end">
+						@player.Defenses[4]
+					</div>
+				</div>
+				<div class="row">
+					<div class="col text-start">
+						Fire
+					</div>
+					<div class="col text-end">
+						@player.Defenses[5]
+					</div>
+				</div>
+				<div class="row">
+					<div class="col text-start">
+						Lightning
+					</div>
+					<div class="col text-end">
+						@player.Defenses[6]
+					</div>
+				</div>
+				<div class="row">
+					<div class="col text-start">
+						Holy
+					</div>
+					<div class="col text-end">
+						@player.Defenses[7]
+					</div>
+				</div>
+			</div>
+			<div class="container mb-5">
+				<h4>Body</h4>
+				<div class="row">
+					<div class="col text-start">
+						Immunity
+					</div>
+					<div class="col text-end">
+						@player.Resistances[0]
+					</div>
+				</div>
+				<div class="row">
+					<div class="col text-start">
+						Robustness
+					</div>
+					<div class="col text-end">
+						@player.Resistances[1]
+					</div>
+				</div>
+				<div class="row">
+					<div class="col text-start">
+						Focus
+					</div>
+					<div class="col text-end">
+						@player.Resistances[2]
+					</div>
+				</div>
+				<div class="row">
+					<div class="col text-start">
+						Vitality
+					</div>
+					<div class="col text-end">
+						@player.Resistances[3]
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+@code {
+	public Player player = new Player();
+
+	protected override async Task OnAfterRenderAsync(bool firstRender)
+	{
+		if (firstRender)
+		{
+			var result = await ProtectedSessionStore.GetAsync<Player>("player");
+			if (result.Success && result.Value != null)
+			{
+				player = result.Value;
+			}
+			StateHasChanged();
+		}
+	}
+
+	async void UpdateClass()
+	{
+		player.UpdateClass();
+		await ProtectedSessionStore.SetAsync("player", player);
+	}
+
+	async void UpdateStats()
+	{
+		player.UpdateStats();
+		await ProtectedSessionStore.SetAsync("player", player);
+	}
+}

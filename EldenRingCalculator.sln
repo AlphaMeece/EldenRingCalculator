@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EldenRingCalculator", "EldenRingCalculator\EldenRingCalculator.csproj", "{A7D6A6FE-F037-40B2-87E6-9A045D549696}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EldenRingCalculator", "EldenRingCalculator\EldenRingCalculator.csproj", "{A7D6A6FE-F037-40B2-87E6-9A045D549696}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

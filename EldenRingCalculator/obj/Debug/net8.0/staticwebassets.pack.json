@@ -1,24 +1,312 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EldenRingCalculator.bundle.scp.css",
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EldenRingCalculator.bundle.scp.css",
       "PackagePath": "staticwebassets\\EldenRingCalculator.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\app.css",
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Status\\Bleed.png",
+      "PackagePath": "staticwebassets\\assets\\Icons\\Status\\Bleed.png"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Status\\Deathblight.png",
+      "PackagePath": "staticwebassets\\assets\\Icons\\Status\\Deathblight.png"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Status\\Frostbite.png",
+      "PackagePath": "staticwebassets\\assets\\Icons\\Status\\Frostbite.png"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Status\\Madness.png",
+      "PackagePath": "staticwebassets\\assets\\Icons\\Status\\Madness.png"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Status\\Poison.png",
+      "PackagePath": "staticwebassets\\assets\\Icons\\Status\\Poison.png"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Status\\Scarletrot.png",
+      "PackagePath": "staticwebassets\\assets\\Icons\\Status\\Scarletrot.png"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Status\\Sleep.png",
+      "PackagePath": "staticwebassets\\assets\\Icons\\Status\\Sleep.png"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Mantinia Regular.otf",
+      "PackagePath": "staticwebassets\\assets\\Mantinia Regular.otf"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Backwards Stab.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Black Knife Assassin\\Backwards Stab.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Black Flame Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Black Knife Assassin\\Black Flame Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Dodging Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Black Knife Assassin\\Dodging Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Fast Stab.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Black Knife Assassin\\Fast Stab.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Ground Flick.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Black Knife Assassin\\Ground Flick.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Lunging Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Black Knife Assassin\\Lunging Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Overhead Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Black Knife Assassin\\Overhead Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Rising Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Black Knife Assassin\\Rising Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Slow Stab.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Black Knife Assassin\\Slow Stab.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Spinning Double Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Black Knife Assassin\\Spinning Double Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Stab.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Black Knife Assassin\\Stab.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Downward Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Downward Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Heavy Downward Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Heavy Downward Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Horizontal Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Horizontal Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Rising Slash into Downward Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Rising Slash into Downward Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Rising Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Rising Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Spinning Backstep.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Spinning Backstep.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Spinning Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Spinning Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Backstep Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Backstep Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Backstep Twirl Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Backstep Twirl Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Delayed London Special.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Delayed London Special.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Fast London Special.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Fast London Special.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Hop Stab.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Hop Stab.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Hop Twirl Horizontal Slash 2.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Hop Twirl Horizontal Slash 2.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Hop Twirl Horizontal Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Hop Twirl Horizontal Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Horizontal Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Horizontal Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\London Special.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\London Special.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Long Hop Stab.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Long Hop Stab.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Lunge Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Lunge Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Lunging Slash Slam 2.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Lunging Slash Slam 2.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Lunging Slash Slam.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Lunging Slash Slam.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Quick Horizontal Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Quick Horizontal Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Quicker Horizontal Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Quicker Horizontal Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Short Backstep Twirl Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Short Backstep Twirl Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Sidestep Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Sidestep Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Slow Horizontal Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Slow Horizontal Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Slow Twirl Horizontal Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Slow Twirl Horizontal Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Spin Slam.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Spin Slam.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Strong Hop Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Strong Hop Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Super Quick Horizontal Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Super Quick Horizontal Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Tiny Backstep Twirl Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Tiny Backstep Twirl Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Upward Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Upward Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Backstep Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Backstep Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Beyblade.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Beyblade.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Delayed Slam.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Delayed Slam.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Fast Uppercut.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Fast Uppercut.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Hammer Swipe.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Hammer Swipe.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Lunge Swipe.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Lunge Swipe.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Right Overhead Swing.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Right Overhead Swing.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Right Overhead Swipe 2.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Right Overhead Swipe 2.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Right Overhead Swipe.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Right Overhead Swipe.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Running Delayed Slam.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Running Delayed Slam.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Running Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Running Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Slow Horizontal Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Slow Horizontal Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Slow Right Slam 2.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Slow Right Slam 2.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Slow Right Slam.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Slow Right Slam.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Spin Slash.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Spin Slash.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Stab 2.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Stab 2.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Stab.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Stab.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Sword Slash into Stab.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Sword Slash into Stab.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Two Handed Left Overhead Swing.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Two Handed Left Overhead Swing.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Two Handed Slam.mp4",
+      "PackagePath": "staticwebassets\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Two Handed Slam.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\enemies.json",
+      "PackagePath": "staticwebassets\\enemies.json"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\resistanceScaling.json",
+      "PackagePath": "staticwebassets\\resistanceScaling.json"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EldenRingCalculator.Microsoft.AspNetCore.StaticWebAssets.props",

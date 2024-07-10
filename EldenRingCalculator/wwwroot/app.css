@@ -1,5 +1,12 @@
+@font-face {
+    font-family: MantiniaRegular;
+    src: url("wwwroot/assets/Mantinia Regular.otf") format('opentype')
+}
+
 html, body {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: MantiniaRegular, 'Times New Roman';
+    background-color: rgb(22, 18, 8);
+    color: whitesmoke;
 }
 
 a, .btn-link {
@@ -48,4 +55,9 @@ h1:focus {
 
 .darker-border-checkbox.form-check-input {
     border-color: #929292;
+}
+
+input, select {
+    color: white;
+    background-color: rgb(11, 9, 4);
 }
