@@ -1,0 +1,574 @@
+[
+  {
+    "Name": "Blaidd the Half-Wolf",
+    "Overrides": [
+      {
+        "Type": "Variant",
+        "Descriptor": "Normal",
+        "Default": true,
+        "Changes": {}
+      },
+      {
+        "Type": "Variant",
+        "Descriptor": "Baleful Shadow",
+        "Defualt": false,
+        "Changes": {
+          "Name": "Baleful Shadow"
+        }
+      }
+    ],
+    "BaseHP": 1320,
+    "ItemDrops": [
+
+    ],
+    "Absorptions": {
+      "Standard": 0.9,
+      "Slash": 0.9,
+      "Strike": 0.9,
+      "Thrust": 1.0,
+      "Magic": 0.6,
+      "Fire": 1.0,
+      "Lightning": 0.8,
+      "Holy": 0.8
+    },
+    "Defense": {
+      "Physical": 100,
+      "Magic": 100,
+      "Fire": 100,
+      "Lightning": 100,
+      "Holy": 100
+    },
+    "Resist": {
+      "Poison": 112,
+      "ScarletRot": 112,
+      "Bleed": 154,
+      "Blight": -1,
+      "Frostbite": 252,
+      "Sleep": 252,
+      "Madness": -1
+    },
+    "ResistScaling": {
+      "Poison": 1002,
+      "ScarletRot": 2002,
+      "Bleed": 3003,
+      "Blight": -1,
+      "Frostbite": 5004,
+      "Sleep": 6004,
+      "Madness": -1
+    },
+    "Parry": {
+      "Possible": true,
+      "Attacks": [
+        "Downward Slash",
+        "Heavy Downward Slash",
+        "Rising Slash",
+        "Rising Slash into Downward Slash",
+        "Spinning Slash",
+        "Spinning Backstep",
+        "Horizontal Slash"
+      ],
+      "Count": 2
+    },
+    "Poise": 80
+  },
+  {
+    "Name": "Rennala, Queen of the Full Moon",
+    "Overrides": [
+      {
+        "Type": "Phase",
+        "Descriptor": "1",
+        "Default": true,
+        "Changes": {}
+      },
+      {
+        "Type": "Phase",
+        "Descriptor": "2",
+        "Default": false,
+        "Changes": {
+          "BaseHP": 1703,
+          "Resist": {
+            "Poison": 252,
+            "ScarletRot": 252,
+            "Frostbite": 252
+          },
+          "ResistScaling": {
+            "Poison": 1004,
+            "ScarletRot": 2004,
+            "Frostbite": 5004
+          },
+          "Poise": 80
+        }
+      }
+    ],
+    "BaseHP": 1452,
+    "ItemDrops": [
+
+    ],
+    "Absorptions": {
+      "Standard": 1.1,
+      "Slash": 1.1,
+      "Strike": 1.0,
+      "Thrust": 1.1,
+      "Magic": 0.2,
+      "Fire": 0.8,
+      "Lightning": 0.8,
+      "Holy": 0.8
+    },
+    "Defense": {
+      "Physical": 100,
+      "Magic": 100,
+      "Fire": 100,
+      "Lightning": 100,
+      "Holy": 100
+    },
+    "Resist": {
+      "Poison": 154,
+      "ScarletRot": 154,
+      "Bleed": 154,
+      "Blight": -1,
+      "Frostbite": 154,
+      "Sleep": -1,
+      "Madness": -1
+    },
+    "ResistScaling": {
+      "Poison": 1003,
+      "ScarletRot": 2003,
+      "Bleed": 3003,
+      "Blight": -1,
+      "Frostbite": 5003,
+      "Sleep": -1,
+      "Madness": -1
+    },
+    "Parry": {
+      "Possible": false,
+      "Attacks": [],
+      "Count": -1
+    },
+    "Poise": -1
+  },
+  {
+    "Name": "Kindred of Rot Larva",
+    "Overrides": [
+      {
+        "Type": "Location",
+        "Descriptor": "Caelid",
+        "Default": true,
+        "Changes": {}
+      },
+      {
+        "Type": "Location",
+        "Descriptor": "Elphael",
+        "Default": false,
+        "Changes": {
+          "ItemDrops": [
+            {
+              "Name": "Aeonian Buttefly",
+              "Count": 1,
+              "Rate": 50
+            }
+          ],
+          "Resist": {
+            "ScarletRot": -1
+          },
+          "ResistScaling": {
+            "ScarletRot": -1
+          }
+        }
+      }
+    ],
+    "BaseHP": 77,
+    "ItemDrops": [
+
+    ],
+    "Absorptions": {
+      "Standard": 1.0,
+      "Slash": 0.9,
+      "Strike": 1.1,
+      "Thrust": 1.0,
+      "Magic": 1.0,
+      "Fire": 1.2,
+      "Lightning": 1.0,
+      "Holy": 1.0
+    },
+    "Defense": {
+      "Physical": 100,
+      "Magic": 100,
+      "Fire": 100,
+      "Lightning": 100,
+      "Holy": 100
+    },
+    "Resist": {
+      "Poison": 112,
+      "ScarletRot": 112,
+      "Bleed": 84,
+      "Blight": -1,
+      "Frostbite": 63,
+      "Sleep": 63,
+      "Madness": -1
+    },
+    "ResistScaling": {
+      "Poison": 1002,
+      "ScarletRot": 2002,
+      "Bleed": 3001,
+      "Blight": -1,
+      "Frostbite": 5000,
+      "Sleep": 6000,
+      "Madness": -1
+    },
+    "Parry": {
+      "Possible": false,
+      "Attacks": [],
+      "Count": -1
+    },
+    "Poise": 30
+  },
+  {
+    "Name": "Juvenile Scholar",
+    "Overrides": [],
+    "BaseHP": 85,
+    "ItemDrops": [
+
+    ],
+    "Absorptions": {
+      "Standard": 1.1,
+      "Slash": 1.1,
+      "Strike": 1.0,
+      "Thrust": 1.1,
+      "Magic": 0.6,
+      "Fire": 1.0,
+      "Lightning": 1.0,
+      "Holy": 1.0
+    },
+    "Defense": {
+      "Physical": 100,
+      "Magic": 100,
+      "Fire": 100,
+      "Lightning": 100,
+      "Holy": 100
+    },
+    "Resist": {
+      "Poison": 84,
+      "ScarletRot": 84,
+      "Bleed": 84,
+      "Blight": -1,
+      "Frostbite": 84,
+      "Sleep": 63,
+      "Madness": -1
+    },
+    "ResistScaling": {
+      "Poison": 1001,
+      "ScarletRot": 2001,
+      "Bleed": 3001,
+      "Blight": -1,
+      "Frostbite": 5001,
+      "Sleep": 6000,
+      "Madness": -1
+    },
+    "Parry": {
+      "Possible": false,
+      "Attacks": [],
+      "Count": -1
+    },
+    "Poise": 30
+  },
+  {
+    "Name": "Black Knife Assassin",
+    "Overrides": [
+      {
+        "Type": "Variant",
+        "Descriptor": "Normal",
+        "Default": true,
+        "Changes": {}
+      },
+      {
+        "Type": "Variant",
+        "Descriptor": "Alecto, Black Knife Ringleader",
+        "Default": false,
+        "Changes": {
+          "Name": "Alecto, Black Knife Ringleader",
+          "BaseHP": 1307
+        }
+      }
+    ],
+    "BaseHP": 731,
+    "ItemDrops": [
+
+    ],
+    "Absorptions": {
+      "Standard": 0.9,
+      "Slash": 0.9,
+      "Strike": 0.9,
+      "Thrust": 0.65,
+      "Magic": 0.8,
+      "Fire": 0.8,
+      "Lightning": 0.8,
+      "Holy": 0.6
+    },
+    "Defense": {
+      "Physical": 100,
+      "Magic": 100,
+      "Fire": 100,
+      "Lightning": 100,
+      "Holy": 100
+    },
+    "Resist": {
+      "Poison": -1,
+      "ScarletRot": -1,
+      "Bleed": -1,
+      "Blight": -1,
+      "Frostbite": 154,
+      "Sleep": -1,
+      "Madness": -1
+    },
+    "ResistScaling": {
+      "Poison": -1,
+      "ScarletRot": -1,
+      "Bleed": -1,
+      "Blight": -1,
+      "Frostbite": 5003,
+      "Sleep": -1,
+      "Madness": -1
+    },
+    "Parry": {
+      "Possible": true,
+      "Attacks": [
+        "Rising Slash",
+        "Spinning Double Slash",
+        "Slow Stab",
+        "Lunging Slash",
+        "Dodging Slash",
+        "Backwards Stab",
+        "Ground Flick",
+        "Fast Stab",
+        "Stab",
+        "Black Flame Slash",
+        "Overhead Slash"
+      ],
+      "Count": 1
+    },
+    "Poise": 80
+  },
+  {
+    "Name": "Beast Clergyman",
+    "Overrides": [
+      {
+        "Type": "Phase",
+        "Descriptor": 1,
+        "Default": true,
+        "Changes": {}
+      },
+      {
+        "Type": "Phase",
+        "Descriptor": 2,
+        "Default": false,
+        "Changes": {
+          "Name": "Maliketh, the Black Blade"
+        }
+      }
+    ],
+    "BaseHP": 1588,
+    "ItemDrops": [
+
+    ],
+    "Absorptions": {
+      "Standard": 0.65,
+      "Slash": 0.65,
+      "Strike": 0.65,
+      "Thrust": 0.65,
+      "Magic": 0.6,
+      "Fire": 0.6,
+      "Lightning": 0.6,
+      "Holy": 0.2
+    },
+    "Defense": {
+      "Physical": 100,
+      "Magic": 100,
+      "Fire": 100,
+      "Lightning": 100,
+      "Holy": 100
+    },
+    "Resist": {
+      "Poison": 154,
+      "ScarletRot": 154,
+      "Bleed": 252,
+      "Blight": -1,
+      "Frostbite": 252,
+      "Sleep": -1,
+      "Madness": -1
+    },
+    "ResistScaling": {
+      "Poison": 1003,
+      "ScarletRot": 2003,
+      "Bleed": 3004,
+      "Blight": -1,
+      "Frostbite": 5004,
+      "Sleep": -1,
+      "Madness": -1
+    },
+    "Parry": {
+      "Possible": false,
+      "Attacks": [],
+      "Count": -1
+    },
+    "Poise": 80
+  },
+  {
+    "Name": "Malenia, Blade of Miquella",
+    "Overrides": [
+      {
+        "Type": "Phase",
+        "Descriptor": 1,
+        "Default": true,
+        "Changes": {}
+      },
+      {
+        "Type": "Phase",
+        "Descriptor": 2,
+        "Default": false,
+        "Changes": {
+          "Name": "Malenia, Goddess of Rot"
+        }
+      }
+    ],
+    "BaseHP": 2489,
+    "ItemDrops": [
+
+    ],
+    "Absorptions": {
+      "Standard": 0.9,
+      "Slash": 0.9,
+      "Strike": 0.9,
+      "Thrust": 0.9,
+      "Magic": 0.8,
+      "Fire": 1.0,
+      "Lightning": 0.8,
+      "Holy": 0.6
+    },
+    "Defense": {
+      "Physical": 100,
+      "Magic": 100,
+      "Fire": 100,
+      "Lightning": 100,
+      "Holy": 100
+    },
+    "Resist": {
+      "Poison": 542,
+      "ScarletRot": 542,
+      "Bleed": 154,
+      "Blight": -1,
+      "Frostbite": 112,
+      "Sleep": 252,
+      "Madness": -1
+    },
+    "ResistScaling": {
+      "Poison": 1005,
+      "ScarletRot": 2005,
+      "Bleed": 3003,
+      "Blight": -1,
+      "Frostbite": 5002,
+      "Sleep": 6004,
+      "Madness": -1
+    },
+    "Parry": {
+      "Possible": true,
+      "Attacks": [
+        "Backstep Slash",
+        "Backstep Twirl Slash",
+        "Delayed London Special",
+        "Fast London Special",
+        "Hop Stab",
+        "Hop Twirl Horizontal Slash",
+        "Hop Twirl Horizontal Slash 2",
+        "Horizontal Slash",
+        "Long Hop Stab",
+        "London Special",
+        "Lunge Slash",
+        "Lunging Slash Slam",
+        "Lunging Slash Slam 2",
+        "Quick Horizontal Slash",
+        "Quicker Horizontal Slash",
+        "Short Backstep Twirl Slash",
+        "Sidestep Slash",
+        "Slow Horizontal Slash",
+        "Slow Twirl Horizontal Slash",
+        "Spin Slam",
+        "Strong Hop Slash",
+        "Super Quick Horizontal Slash",
+        "Tiny Backstep Twirl Slash",
+        "Upward Slash"
+      ],
+      "Count": 3
+    },
+    "Poise": 80
+  },
+  {
+    "Name": "Margit, the Fell Omen",
+    "Overrides": [],
+    "BaseHP": 2521,
+    "ItemDrops": [
+
+    ],
+    "Absorptions": {
+      "Standard": 1.0,
+      "Slash": 1.1,
+      "Strike": 1.0,
+      "Thrust": 1.0,
+      "Magic": 1.0,
+      "Fire": 1.0,
+      "Lightning": 1.0,
+      "Holy": 0.6
+    },
+    "Defense": {
+      "Physical": 100,
+      "Magic": 100,
+      "Fire": 100,
+      "Lightning": 100,
+      "Holy": 100
+    },
+    "Resist": {
+      "Poison": 154,
+      "ScarletRot": 154,
+      "Bleed": 154,
+      "Blight": -1,
+      "Frostbite": 154,
+      "Sleep": -1,
+      "Madness":  -1
+    },
+    "ResistScaling": {
+      "Poison":1003,
+      "ScarletRot": 2003,
+      "Bleed": 3003,
+      "Blight": -1,
+      "Frostbite": 5003,
+      "Sleep": -1,
+      "Madness": -1
+    },
+    "Parry": {
+      "Possible": true,
+      "Attacks": [
+        "Backstep Slash",
+        "Beyblade",
+        "Delayed Slam",
+        "Fast Uppercut",
+        "Hammer Swipe",
+        "Lunge Swipe",
+        "Right Overhead Swing",
+        "Right Overhead Swipe",
+        "Right Overhead Swipe 2",
+        "Running Delayed Slam",
+        "Running Slash",
+        "Slow Horizontal Slash",
+        "Slow Right Slam",
+        "Slow Right Slam 2",
+        "Spin Slash",
+        "Stab",
+        "Stab 2",
+        "Sword Slash into Stab",
+        "Two Handed Left Overhead Swing",
+        "Two Handed Slam"
+      ],
+      "Count": 2
+    },
+    "Poise": 80
+  }
+]

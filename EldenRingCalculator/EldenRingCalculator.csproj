@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="wwwroot\assets\parry\**" />
+    <Content Remove="wwwroot\assets\parry\**" />
+    <EmbeddedResource Remove="wwwroot\assets\parry\**" />
+    <None Remove="wwwroot\assets\parry\**" />
+  </ItemGroup>
+
+</Project>
