@@ -1,4 +1,6 @@
-﻿namespace EldenRingCalculator.Classes
+﻿
+
+namespace EldenRingCalculator.Classes
 {
 	public class Player
 	{
@@ -15,6 +17,7 @@
 		public int[] OldStats;
 		public int[] Defenses;
 		public int[] Resistances;
+
 		public Player()
 		{
 			Class = "Hero";

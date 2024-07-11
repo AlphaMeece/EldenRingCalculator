@@ -1,6 +1,5 @@
 ﻿@page "/"
 @rendermode InteractiveServer
-@inject ProtectedSessionStorage ProtectedSessionStore
 
 <PageTitle>Character Stats</PageTitle>
 
@@ -16,7 +15,7 @@
 						Class
 					</div>
 					<div class="col text-end">
-						<select @bind=player.Class @bind:after=UpdateClass>
+						<select @bind=player.Class @bind:after=@(() => player.UpdateClass())>
 							<option>Hero</option>
 							<option>Bandit</option>
 							<option>Astrologer</option>
@@ -36,7 +35,7 @@
 						Level
 					</div>
 					<div class="col text-end">
-						<input class="w-50" type="number" min="1" max="712" @bind=player.Level @bind:after=UpdateStats />
+						<input class="w-50" type="number" min="1" max="712" @bind=player.Level @bind:after=@(() => player.UpdateStats()) />
 					</div>
 				</div>
 			</div>
@@ -47,7 +46,7 @@
 						Vigor
 					</div>
 					<div class="col text-end">
-						<input class="w-50" type="number" min="1" max="99" @bind:after=UpdateStats @bind=player.Stats[0] />
+						<input class="w-50" type="number" min="1" max="99" @bind:after=@(() => player.UpdateStats()) @bind=player.Stats[0] />
 					</div>
 				</div>
 				<div class="row">
@@ -55,7 +54,7 @@
 						Mind
 					</div>
 					<div class="col text-end">
-						<input class="w-50" type="number" min="1" max="99" @bind:after=UpdateStats @bind=player.Stats[1] />
+						<input class="w-50" type="number" min="1" max="99" @bind:after=@(() => player.UpdateStats()) @bind=player.Stats[1] />
 					</div>
 				</div>
 				<div class="row">
@@ -63,7 +62,7 @@
 						Endurance
 					</div>
 					<div class="col text-end">
-						<input class="w-50" type="number" min="1" max="99" @bind:after=UpdateStats @bind=player.Stats[2] />
+						<input class="w-50" type="number" min="1" max="99" @bind:after=@(() => player.UpdateStats()) @bind=player.Stats[2] />
 					</div>
 				</div>
 				<div class="row">
@@ -71,7 +70,7 @@
 						Strength
 					</div>
 					<div class="col text-end">
-						<input class="w-50" type="number" min="1" max="99" @bind:after=UpdateStats @bind=player.Stats[3] />
+						<input class="w-50" type="number" min="1" max="99" @bind:after=@(() => player.UpdateStats()) @bind=player.Stats[3] />
 					</div>
 				</div>
 				<div class="row">
@@ -79,7 +78,7 @@
 						Dexteriry
 					</div>
 					<div class="col text-end">
-						<input class="w-50" type="number" min="1" max="99" @bind:after=UpdateStats @bind=player.Stats[4] />
+						<input class="w-50" type="number" min="1" max="99" @bind:after=@(() => player.UpdateStats()) @bind=player.Stats[4] />
 					</div>
 				</div>
 				<div class="row">
@@ -87,7 +86,7 @@
 						Intelligence
 					</div>
 					<div class="col text-end">
-						<input class="w-50" type="number" min="1" max="99" @bind:after=UpdateStats @bind=player.Stats[5] />
+						<input class="w-50" type="number" min="1" max="99" @bind:after=@(() => player.UpdateStats()) @bind=player.Stats[5] />
 					</div>
 				</div>
 				<div class="row">
@@ -95,7 +94,7 @@
 						Faith
 					</div>
 					<div class="col text-end">
-						<input class="w-50" type="number" min="1" max="99" @bind:after=UpdateStats @bind=player.Stats[6] />
+						<input class="w-50" type="number" min="1" max="99" @bind:after=@(() => player.UpdateStats()) @bind=player.Stats[6] />
 					</div>
 				</div>
 				<div class="row">
@@ -103,7 +102,7 @@
 						Arcane
 					</div>
 					<div class="col text-end">
-						<input class="w-50" type="number" min="1" max="99" @bind:after=UpdateStats @bind=player.Stats[7] />
+						<input class="w-50" type="number" min="1" max="99" @bind:after=@(() => player.UpdateStats()) @bind=player.Stats[7] />
 					</div>
 				</div>
 			</div>
@@ -233,7 +232,7 @@
 				<h4>Body</h4>
 				<div class="row">
 					<div class="col text-start">
-						Immunity
+						Immunity <img class="w-15" src="/assets/Icons/Status/Poison.png" title="Poison" alt="Poison"/><img class="w-15" src="/assets/Icons/Status/Scarletrot.png" title="Scarlet Rot" alt="Scarlet Rot"/>
 					</div>
 					<div class="col text-end">
 						@player.Resistances[0]
@@ -241,7 +240,7 @@
 				</div>
 				<div class="row">
 					<div class="col text-start">
-						Robustness
+						Robustness <img class="w-15" src="/assets/Icons/Status/Frostbite.png" title="Frostbite" alt="Frostbite"/><img class="w-15" src="/assets/Icons/Status/Bleed.png" title="Hemorrhage" alt="Hemorrhage"/>
 					</div>
 					<div class="col text-end">
 						@player.Resistances[1]
@@ -249,7 +248,7 @@
 				</div>
 				<div class="row">
 					<div class="col text-start">
-						Focus
+						Focus <img class="w-15" src="/assets/Icons/Status/Sleep.png" title="Sleep" alt="Sleep"/><img class="w-15" src="/assets/Icons/Status/Madness.png" title="Madness" alt="Madness"/>
 					</div>
 					<div class="col text-end">
 						@player.Resistances[2]
@@ -257,7 +256,7 @@
 				</div>
 				<div class="row">
 					<div class="col text-start">
-						Vitality
+						Vitality <img class="w-15" src="/assets/Icons/Status/Deathblight.png" title="Deathblight" alt="Deathblight"/>
 					</div>
 					<div class="col text-end">
 						@player.Resistances[3]
@@ -269,30 +268,6 @@
 </div>
 
 @code {
-	public Player player = new Player();
-
-	protected override async Task OnAfterRenderAsync(bool firstRender)
-	{
-		if (firstRender)
-		{
-			var result = await ProtectedSessionStore.GetAsync<Player>("player");
-			if (result.Success && result.Value != null)
-			{
-				player = result.Value;
-			}
-			StateHasChanged();
-		}
-	}
-
-	async void UpdateClass()
-	{
-		player.UpdateClass();
-		await ProtectedSessionStore.SetAsync("player", player);
-	}
-
-	async void UpdateStats()
-	{
-		player.UpdateStats();
-		await ProtectedSessionStore.SetAsync("player", player);
-	}
+	[CascadingParameter]
+	public Player player { get; set; }
 }

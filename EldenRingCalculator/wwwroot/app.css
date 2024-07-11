@@ -61,3 +61,7 @@ input, select {
     color: white;
     background-color: rgb(11, 9, 4);
 }
+
+.w-15 {
+    width: 15%;
+}
