@@ -1,0 +1,15 @@
+﻿@namespace EldenRingCalculator.Components
+
+<div class="ItemSlot-Container p-0" @onmouseover=@(() => hovered = true) @onmouseout=@(() => hovered = false)>
+	<div class="ItemSlot-BaseImage">
+		<img class="img-fluid" src="@ImgSource" />
+		<img class="ItemSlot-Active @(hovered ? "":"visually-hidden")" src="/assets/Icons/Menu/SelectedSlot.png" />
+	</div>
+</div>
+
+@code {
+	[Parameter]
+	public string ImgSource { get; set; }
+
+	bool hovered = false;
+}

@@ -1,0 +1,18 @@
+﻿.ItemSlot-Container {
+    display: inline-block;
+    position: relative;
+    width: 75px;
+}
+
+.ItemSlot-Container:hover {
+    cursor: pointer;
+}
+
+.ItemSlot-Active {
+    z-index: 1;
+    position: absolute;
+    top: 7.5%;
+    left: 5%;
+    width: 90%;
+    height: auto;
+}

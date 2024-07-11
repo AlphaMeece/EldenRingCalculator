@@ -18,6 +18,10 @@ namespace EldenRingCalculator.Classes
 		public int[] Defenses;
 		public int[] Resistances;
 
+		public string SelectedSlot;
+		public EquipItem SelectedItem;
+
+
 		public Player()
 		{
 			Class = "Hero";
@@ -33,6 +37,9 @@ namespace EldenRingCalculator.Classes
 			OldStats = [14, 9, 12, 16, 9, 7, 8, 11];
 			Defenses = [ 50, 50, 50, 50, 63, 54, 45, 67 ];
 			Resistances = [ 77, 77, 77, 77 ];
+
+			SelectedSlot = "Right Hand Armament 1";
+			SelectedItem = ItemTable.Weapons.None;
 		}
 		
 

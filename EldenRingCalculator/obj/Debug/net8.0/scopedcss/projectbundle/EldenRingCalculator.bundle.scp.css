@@ -1,3 +1,22 @@
+/* _content/EldenRingCalculator/Components/Inventory/ItemSlot.razor.rz.scp.css */
+.ItemSlot-Container[b-qt410ygxof] {
+    display: inline-block;
+    position: relative;
+    width: 75px;
+}
+
+.ItemSlot-Container:hover[b-qt410ygxof] {
+    cursor: pointer;
+}
+
+.ItemSlot-Active[b-qt410ygxof] {
+    z-index: 1;
+    position: absolute;
+    top: 7.5%;
+    left: 5%;
+    width: 90%;
+    height: auto;
+}
 /* _content/EldenRingCalculator/Components/Layout/MainLayout.razor.rz.scp.css */
 .page[b-koo5rlnabd] {
     position: relative;

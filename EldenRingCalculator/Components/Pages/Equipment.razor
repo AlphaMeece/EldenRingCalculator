@@ -1,0 +1,60 @@
+﻿@page "/equipment"
+@rendermode InteractiveServer
+
+<PageTitle>Equipment</PageTitle>
+
+<h1>Equipment</h1>
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <h6 style="color: #ebd494">@SelectedSlotName</h6>
+            <h6>@SelectedSlotItemName</h6>
+            <div class="container p-0">
+                <div class="row p-0">
+                    <ItemSlot SlotName="Right Hand Armament 1" ImgSource="/assets/Icons/Menu/MainHandSlot.png"></ItemSlot>
+                    <ItemSlot SlotName="Right Hand Armament 2" ImgSource="/assets/Icons/Menu/MainHandSlot.png"></ItemSlot>
+                    <ItemSlot SlotName="Right Hand Armament 3" ImgSource="/assets/Icons/Menu/MainHandSlot.png"></ItemSlot>
+                    <ItemSlot SlotName="Arrow 1" ImgSource="/assets/Icons/Menu/ArrowSlot.png"></ItemSlot>
+                    <ItemSlot SlotName="Arrow 2" ImgSource="/assets/Icons/Menu/ArrowSlot.png"></ItemSlot>
+                </div>
+                <div class="row p-0">
+                    <ItemSlot SlotName="Left Hand Armament 1" ImgSource="/assets/Icons/Menu/OffHandSlot.png"></ItemSlot>
+                    <ItemSlot SlotName="Left Hand Armament 2" ImgSource="/assets/Icons/Menu/OffHandSlot.png"></ItemSlot>
+                    <ItemSlot SlotName="Left Hand Armament 3" ImgSource="/assets/Icons/Menu/OffHandSlot.png"></ItemSlot>
+                    <ItemSlot SlotName="Bolt 1" ImgSource="/assets/Icons/Menu/BoltSlot.png"></ItemSlot>
+                    <ItemSlot SlotName="Bolt 2" ImgSource="/assets/Icons/Menu/BoltSlot.png"></ItemSlot>
+                </div>
+                <div class="row p-0">
+                    <ItemSlot SlotName="Talisman 1" ImgSource="/assets/Icons/Menu/TalismanSlot.png"></ItemSlot>
+                    <ItemSlot SlotName="Talisman 2" ImgSource="/assets/Icons/Menu/TalismanSlot.png"></ItemSlot>
+                    <ItemSlot SlotName="Talisman 3" ImgSource="/assets/Icons/Menu/TalismanSlot.png"></ItemSlot>
+                    <ItemSlot SlotName="Talisman 4" ImgSource="/assets/Icons/Menu/TalismanSlot.png"></ItemSlot>
+                </div>
+                <div class="row p-0">
+                    <ItemSlot SlotName="Spell Slot 1" ImgSource="/assets/Icons/Menu/SpellSlot.png"></ItemSlot>
+                    <ItemSlot SlotName="Spell Slot 2" ImgSource="/assets/Icons/Menu/SpellSlot.png"></ItemSlot>
+                    <ItemSlot SlotName="Spell Slot 3" ImgSource="/assets/Icons/Menu/SpellSlot.png"></ItemSlot>
+                    <ItemSlot SlotName="Spell Slot 4" ImgSource="/assets/Icons/Menu/SpellSlot.png"></ItemSlot>
+                    <ItemSlot SlotName="Spell Slot 5" ImgSource="/assets/Icons/Menu/SpellSlot.png"></ItemSlot>
+                </div>
+                <div class="row p-0">
+                    <ItemSlot SlotName="Spell Slot 6" ImgSource="/assets/Icons/Menu/SpellSlot.png"></ItemSlot>
+                    <ItemSlot SlotName="Spell Slot 7" ImgSource="/assets/Icons/Menu/SpellSlot.png"></ItemSlot>
+                    <ItemSlot SlotName="Spell Slot 8" ImgSource="/assets/Icons/Menu/SpellSlot.png"></ItemSlot>
+                    <ItemSlot SlotName="Spell Slot 9" ImgSource="/assets/Icons/Menu/SpellSlot.png"></ItemSlot>
+                    <ItemSlot SlotName="Spell Slot 10" ImgSource="/assets/Icons/Menu/SpellSlot.png"></ItemSlot>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@code {
+    [CascadingParameter]
+    public Player player { get; set; }
+
+    string SelectedSlotName = "Right Hand Armament 1";
+    string SelectedSlotItemName = "None";
+}

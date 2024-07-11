@@ -2,7 +2,81 @@
 {
 	public static class ToolBox
 	{
-		public static int Scaling(int stat, int currentCap, int previousCap, double exp, int baseValue, int maxValue, int scale = 1)
+        public enum itemType { Weapon, Arrow, Bolt, AOW, Head, Chest, Pants, Boots, Talisman, Buff };
+		public enum weaponCategory { 
+			None, 
+			Dagger = 20, 
+			Torch, 
+			Claw, 
+			StraightSword, 
+			Twinblade, 
+			Greatsword, 
+			ColossalSword, 
+			ThrustingSword, 
+			CurvedSword, 
+			Katana, 
+			Axe, 
+			ColossalWeapon, 
+			Greataxe, 
+			Hammer, 
+			Flail, 
+			GreatHammer, 
+			Spear, 
+			GreatSpear, 
+			Halberd,  
+			HeavyThrustingSword,
+			CurvedGreatsword,
+			Catalyst,
+			Fist,
+			Whip,
+			Bow,
+			Greatbow,
+			Crossbow,
+			Greatshield,
+			SmallShield,
+			MediumShield,
+			Sycthe,
+			LightBow,
+			Ballista,
+			ThrowingBlade,
+			HandToHand,
+			PerfumeBottle,
+			ThrustingShield,
+			ReverseHandSword,
+			LightGreatsword,
+			GreatKatana,
+			BeastClaw
+		}
+		public enum reinforceType
+		{
+			Standard,
+			Heavy,
+			Keen,
+			Quality,
+			Fire,
+			FlameArt,
+			Lightning,
+			Sacred,
+			Magic,
+			Cold,
+			Poison,
+			Blood,
+			Occult,
+			Catalyst,
+			Unique,
+			UniqueCatalyst,
+			CrossbowOrBallista,
+			UniqueCrossbowOrBallista,
+			PulleyCrossbow,
+			SpecialKeen,
+			SpecialHeavy,
+			SmallShield,
+			MediumShield,
+			Greatshield,
+			UniqueGreatshield,
+			CoilShield
+		}
+        public static int Scaling(int stat, int currentCap, int previousCap, double exp, int baseValue, int maxValue, int scale = 1)
 		{
 			if (exp > 0)
 			{
