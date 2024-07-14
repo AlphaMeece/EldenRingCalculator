@@ -59,3 +59,4 @@ C:\Users\aslpl\Desktop\EldenRingCalculator\EldenRingCalculator\obj\Debug\net8.0\
 C:\Users\aslpl\Desktop\EldenRingCalculator\EldenRingCalculator\obj\Debug\net8.0\ref\EldenRingCalculator.dll
 C:\Users\AlphaMeece\source\repos\EldenRingCalculator\EldenRingCalculator\obj\Debug\net8.0\EldenRingCalculator.sourcelink.json
 C:\Users\aslpl\Desktop\EldenRingCalculator\EldenRingCalculator\obj\Debug\net8.0\scopedcss\Components\Inventory\ItemSlot.razor.rz.scp.css
+C:\Users\AlphaMeece\source\repos\EldenRingCalculator\EldenRingCalculator\obj\Debug\net8.0\scopedcss\Components\Inventory\ItemSlot.razor.rz.scp.css

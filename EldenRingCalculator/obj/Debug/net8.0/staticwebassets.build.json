@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BuiTCEAe3tvdkJr76KC7Hn/SMR48aBMfnzmbPhxRQ+U=",
+  "Hash": "oDOlThXEqiz6EEauN9qdFkFP15LUKfP1adTxsllXIRA=",
   "Source": "EldenRingCalculator",
   "BasePath": "_content/EldenRingCalculator",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "EldenRingCalculator\\wwwroot",
       "Source": "EldenRingCalculator",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EldenRingCalculator.styles.css",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EldenRingCalculator.styles.css",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "EldenRingCalculator.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EldenRingCalculator.styles.css"
+      "OriginalItemSpec": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EldenRingCalculator.styles.css"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EldenRingCalculator.bundle.scp.css",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EldenRingCalculator.bundle.scp.css",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "EldenRingCalculator.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EldenRingCalculator.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EldenRingCalculator.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\app.css",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Menu\\ArrowSlot.png",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Menu\\ArrowSlot.png",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Icons/Menu/ArrowSlot.png",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Icons\\Menu\\ArrowSlot.png"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Menu\\BoltSlot.png",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Menu\\BoltSlot.png",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Icons/Menu/BoltSlot.png",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Icons\\Menu\\BoltSlot.png"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Menu\\ChestSlot.png",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Menu\\ChestSlot.png",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Icons/Menu/ChestSlot.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Icons\\Menu\\ChestSlot.png"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Menu\\ConsumableSlot.png",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Menu\\ConsumableSlot.png",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Icons/Menu/ConsumableSlot.png",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Icons\\Menu\\ConsumableSlot.png"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Menu\\EmptySlot.png",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Menu\\EmptySlot.png",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Icons/Menu/EmptySlot.png",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Icons\\Menu\\EmptySlot.png"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Menu\\GlovesSlot.png",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Menu\\GlovesSlot.png",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Icons/Menu/GlovesSlot.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Icons\\Menu\\GlovesSlot.png"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Menu\\HeadSlot.png",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Menu\\HeadSlot.png",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Icons/Menu/HeadSlot.png",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Icons\\Menu\\HeadSlot.png"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Menu\\MainHandSlot.png",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Menu\\MainHandSlot.png",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Icons/Menu/MainHandSlot.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Icons\\Menu\\MainHandSlot.png"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Menu\\OffHandSlot.png",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Menu\\OffHandSlot.png",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Icons/Menu/OffHandSlot.png",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Icons\\Menu\\OffHandSlot.png"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Menu\\PantsSlot.png",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Menu\\PantsSlot.png",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Icons/Menu/PantsSlot.png",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Icons\\Menu\\PantsSlot.png"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Menu\\scroll-quill.png",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Menu\\scroll-quill.png",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Icons/Menu/scroll-quill.png",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Icons\\Menu\\scroll-quill.png"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Menu\\SelectedSlot.png",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Menu\\SelectedSlot.png",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Icons/Menu/SelectedSlot.png",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Icons\\Menu\\SelectedSlot.png"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Menu\\SpellSlot.png",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Menu\\SpellSlot.png",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Icons/Menu/SpellSlot.png",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Icons\\Menu\\SpellSlot.png"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Menu\\TalismanSlot.png",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Menu\\TalismanSlot.png",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Icons/Menu/TalismanSlot.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Icons\\Menu\\TalismanSlot.png"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Status\\Bleed.png",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Status\\Bleed.png",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Icons/Status/Bleed.png",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Icons\\Status\\Bleed.png"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Status\\Deathblight.png",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Status\\Deathblight.png",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Icons/Status/Deathblight.png",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Icons\\Status\\Deathblight.png"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Status\\Frostbite.png",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Status\\Frostbite.png",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Icons/Status/Frostbite.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Icons\\Status\\Frostbite.png"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Status\\Madness.png",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Status\\Madness.png",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Icons/Status/Madness.png",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Icons\\Status\\Madness.png"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Status\\Poison.png",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Status\\Poison.png",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Icons/Status/Poison.png",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Icons\\Status\\Poison.png"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Status\\Scarletrot.png",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Status\\Scarletrot.png",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Icons/Status/Scarletrot.png",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Icons\\Status\\Scarletrot.png"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Status\\Sleep.png",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Icons\\Status\\Sleep.png",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Icons/Status/Sleep.png",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Icons\\Status\\Sleep.png"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Mantinia Regular.otf",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Mantinia Regular.otf",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Mantinia Regular.otf",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Mantinia Regular.otf"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Backwards Stab.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Backwards Stab.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Black Knife Assassin/Backwards Stab.mp4",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Backwards Stab.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Black Flame Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Black Flame Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Black Knife Assassin/Black Flame Slash.mp4",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Black Flame Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Dodging Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Dodging Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Black Knife Assassin/Dodging Slash.mp4",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Dodging Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Fast Stab.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Fast Stab.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Black Knife Assassin/Fast Stab.mp4",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Fast Stab.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Ground Flick.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Ground Flick.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Black Knife Assassin/Ground Flick.mp4",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Ground Flick.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Lunging Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Lunging Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Black Knife Assassin/Lunging Slash.mp4",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Lunging Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Overhead Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Overhead Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Black Knife Assassin/Overhead Slash.mp4",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Overhead Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Rising Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Rising Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Black Knife Assassin/Rising Slash.mp4",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Rising Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Slow Stab.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Slow Stab.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Black Knife Assassin/Slow Stab.mp4",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Slow Stab.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Spinning Double Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Spinning Double Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Black Knife Assassin/Spinning Double Slash.mp4",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Spinning Double Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Stab.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Stab.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Black Knife Assassin/Stab.mp4",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Black Knife Assassin\\Stab.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Downward Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Downward Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Blaidd the Half-Wolf/Downward Slash.mp4",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Downward Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Heavy Downward Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Heavy Downward Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Blaidd the Half-Wolf/Heavy Downward Slash.mp4",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Heavy Downward Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Horizontal Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Horizontal Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Blaidd the Half-Wolf/Horizontal Slash.mp4",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Horizontal Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Rising Slash into Downward Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Rising Slash into Downward Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Blaidd the Half-Wolf/Rising Slash into Downward Slash.mp4",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Rising Slash into Downward Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Rising Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Rising Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Blaidd the Half-Wolf/Rising Slash.mp4",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Rising Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Spinning Backstep.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Spinning Backstep.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Blaidd the Half-Wolf/Spinning Backstep.mp4",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Spinning Backstep.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Spinning Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Spinning Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Blaidd the Half-Wolf/Spinning Slash.mp4",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Blaidd the Half-Wolf\\Spinning Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Backstep Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Backstep Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Malenia, Blade of Miquella/Backstep Slash.mp4",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Backstep Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Backstep Twirl Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Backstep Twirl Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Malenia, Blade of Miquella/Backstep Twirl Slash.mp4",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Backstep Twirl Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Delayed London Special.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Delayed London Special.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Malenia, Blade of Miquella/Delayed London Special.mp4",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Delayed London Special.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Fast London Special.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Fast London Special.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Malenia, Blade of Miquella/Fast London Special.mp4",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Fast London Special.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Hop Stab.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Hop Stab.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Malenia, Blade of Miquella/Hop Stab.mp4",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Hop Stab.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Hop Twirl Horizontal Slash 2.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Hop Twirl Horizontal Slash 2.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Malenia, Blade of Miquella/Hop Twirl Horizontal Slash 2.mp4",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Hop Twirl Horizontal Slash 2.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Hop Twirl Horizontal Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Hop Twirl Horizontal Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Malenia, Blade of Miquella/Hop Twirl Horizontal Slash.mp4",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Hop Twirl Horizontal Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Horizontal Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Horizontal Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Malenia, Blade of Miquella/Horizontal Slash.mp4",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Horizontal Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\London Special.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\London Special.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Malenia, Blade of Miquella/London Special.mp4",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\London Special.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Long Hop Stab.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Long Hop Stab.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Malenia, Blade of Miquella/Long Hop Stab.mp4",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Long Hop Stab.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Lunge Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Lunge Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Malenia, Blade of Miquella/Lunge Slash.mp4",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Lunge Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Lunging Slash Slam 2.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Lunging Slash Slam 2.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Malenia, Blade of Miquella/Lunging Slash Slam 2.mp4",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Lunging Slash Slam 2.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Lunging Slash Slam.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Lunging Slash Slam.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Malenia, Blade of Miquella/Lunging Slash Slam.mp4",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Lunging Slash Slam.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Quick Horizontal Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Quick Horizontal Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Malenia, Blade of Miquella/Quick Horizontal Slash.mp4",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Quick Horizontal Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Quicker Horizontal Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Quicker Horizontal Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Malenia, Blade of Miquella/Quicker Horizontal Slash.mp4",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Quicker Horizontal Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Short Backstep Twirl Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Short Backstep Twirl Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Malenia, Blade of Miquella/Short Backstep Twirl Slash.mp4",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Short Backstep Twirl Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Sidestep Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Sidestep Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Malenia, Blade of Miquella/Sidestep Slash.mp4",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Sidestep Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Slow Horizontal Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Slow Horizontal Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Malenia, Blade of Miquella/Slow Horizontal Slash.mp4",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Slow Horizontal Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Slow Twirl Horizontal Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Slow Twirl Horizontal Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Malenia, Blade of Miquella/Slow Twirl Horizontal Slash.mp4",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Slow Twirl Horizontal Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Spin Slam.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Spin Slam.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Malenia, Blade of Miquella/Spin Slam.mp4",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Spin Slam.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Strong Hop Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Strong Hop Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Malenia, Blade of Miquella/Strong Hop Slash.mp4",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Strong Hop Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Super Quick Horizontal Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Super Quick Horizontal Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Malenia, Blade of Miquella/Super Quick Horizontal Slash.mp4",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Super Quick Horizontal Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Tiny Backstep Twirl Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Tiny Backstep Twirl Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Malenia, Blade of Miquella/Tiny Backstep Twirl Slash.mp4",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Tiny Backstep Twirl Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Upward Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Upward Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Malenia, Blade of Miquella/Upward Slash.mp4",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Malenia, Blade of Miquella\\Upward Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Backstep Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Backstep Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Margit, the Fell Omen/Backstep Slash.mp4",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Backstep Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Beyblade.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Beyblade.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Margit, the Fell Omen/Beyblade.mp4",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Beyblade.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Delayed Slam.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Delayed Slam.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Margit, the Fell Omen/Delayed Slam.mp4",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Delayed Slam.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Fast Uppercut.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Fast Uppercut.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Margit, the Fell Omen/Fast Uppercut.mp4",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Fast Uppercut.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Hammer Swipe.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Hammer Swipe.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Margit, the Fell Omen/Hammer Swipe.mp4",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Hammer Swipe.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Lunge Swipe.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Lunge Swipe.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Margit, the Fell Omen/Lunge Swipe.mp4",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Lunge Swipe.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Right Overhead Swing.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Right Overhead Swing.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Margit, the Fell Omen/Right Overhead Swing.mp4",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Right Overhead Swing.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Right Overhead Swipe 2.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Right Overhead Swipe 2.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Margit, the Fell Omen/Right Overhead Swipe 2.mp4",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Right Overhead Swipe 2.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Right Overhead Swipe.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Right Overhead Swipe.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Margit, the Fell Omen/Right Overhead Swipe.mp4",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Right Overhead Swipe.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Running Delayed Slam.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Running Delayed Slam.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Margit, the Fell Omen/Running Delayed Slam.mp4",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Running Delayed Slam.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Running Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Running Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Margit, the Fell Omen/Running Slash.mp4",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Running Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Slow Horizontal Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Slow Horizontal Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Margit, the Fell Omen/Slow Horizontal Slash.mp4",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Slow Horizontal Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Slow Right Slam 2.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Slow Right Slam 2.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Margit, the Fell Omen/Slow Right Slam 2.mp4",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Slow Right Slam 2.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Slow Right Slam.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Slow Right Slam.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Margit, the Fell Omen/Slow Right Slam.mp4",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Slow Right Slam.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Spin Slash.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Spin Slash.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Margit, the Fell Omen/Spin Slash.mp4",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Spin Slash.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Stab 2.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Stab 2.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Margit, the Fell Omen/Stab 2.mp4",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Stab 2.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Stab.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Stab.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Margit, the Fell Omen/Stab.mp4",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Stab.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Sword Slash into Stab.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Sword Slash into Stab.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Margit, the Fell Omen/Sword Slash into Stab.mp4",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Sword Slash into Stab.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Two Handed Left Overhead Swing.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Two Handed Left Overhead Swing.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Margit, the Fell Omen/Two Handed Left Overhead Swing.mp4",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Two Handed Left Overhead Swing.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Two Handed Slam.mp4",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Two Handed Slam.mp4",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "assets/Parryable Attacks/Margit, the Fell Omen/Two Handed Slam.mp4",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Parryable Attacks\\Margit, the Fell Omen\\Two Handed Slam.mp4"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\enemies.json",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\enemies.json",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "enemies.json",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\enemies.json"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\favicon.png",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\resistanceScaling.json",
+      "Identity": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\resistanceScaling.json",
       "SourceId": "EldenRingCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aslpl\\Desktop\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AlphaMeece\\source\\repos\\EldenRingCalculator\\EldenRingCalculator\\wwwroot\\",
       "BasePath": "_content/EldenRingCalculator",
       "RelativePath": "resistanceScaling.json",
       "AssetKind": "All",

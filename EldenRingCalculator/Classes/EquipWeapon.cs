@@ -11,6 +11,7 @@
         public int[] StatRequirements;
         public double[] BaseDamage;
         public int[] BaseScaling;
+        public int[][] ModifiedScalings = [];
 
         public EquipWeapon(
             string name,
@@ -21,8 +22,8 @@
             ToolBox.reinforceType reinforce,
             bool changeReinforce,
             int[] requirements,
-            double[] baseDamage,
-            int[] baseScaling
+            double[] baseDamage, // Physical, Magic, Fire, Lightning, Holy, Stamina, Poise
+            int[] baseScaling //Strength, Dexterity, Intelligence, Faith, Arcane
             ) : base(name, ToolBox.itemType.Weapon)
         {
             AOW = defaultAOW;
@@ -34,6 +35,11 @@
             StatRequirements = requirements;
             BaseDamage = baseDamage;
             BaseScaling = baseScaling;
+        }
+
+        public override EquipWeapon Copy()
+        {
+            return (EquipWeapon)this.MemberwiseClone();
         }
     }
 }

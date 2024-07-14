@@ -1,15 +1,70 @@
 ﻿@namespace EldenRingCalculator.Components
+@implements IDisposable
 
-<div class="ItemSlot-Container p-0" @onmouseover=@(() => hovered = true) @onmouseout=@(() => hovered = false)>
+<div class="ItemSlot-Container p-0" @onclick=@Clicked>
 	<div class="ItemSlot-BaseImage">
 		<img class="img-fluid" src="@ImgSource" />
-		<img class="ItemSlot-Active @(hovered ? "":"visually-hidden")" src="/assets/Icons/Menu/SelectedSlot.png" />
+		<img class="ItemSlot-Active @(selected ? "":"visually-hidden")" src="/assets/Icons/Menu/SelectedSlot.png" />
 	</div>
 </div>
 
 @code {
+	protected override void OnInitialized()
+	{
+		player.ValuesChanged += () => NewItem();
+		player.ValuesChanged += () => StateHasChanged();
+
+		switch(SlotType)
+		{
+			case "Weapon":
+				Item = ItemTable.Weapons[DefaultItemID].Copy();
+				break;
+			case "Talisman":
+				Item = ItemTable.Talismans[DefaultItemID].Copy();
+				break;
+			case "Ammo":
+				Item = ItemTable.Weapons[DefaultItemID].Copy();
+				break;
+			case "Magic":
+				Item = ItemTable.Magic[DefaultItemID].Copy();
+				break;
+
+		}
+	}
+
 	[Parameter]
 	public string ImgSource { get; set; }
+	[Parameter]
+	public string SlotName { get; set; }
+	[Parameter]
+	public string DefaultItemID { get; set; }
+	[Parameter]
+	public string SlotType { get; set; }
+	[CascadingParameter]
+	public Player player { get; set; }
 
-	bool hovered = false;
+	bool selected = false;
+	EquipItem Item;
+
+	void Clicked()
+	{
+		selected = true;
+		player.SelectedSlot = SlotName;
+		player.SelectedItem = Item;
+		player.ValuesChanged.Invoke();
+	}
+
+	void NewItem()
+	{
+		if(player.SelectedSlot != SlotName)
+		{
+			selected = false;
+		}
+	}
+
+	void IDisposable.Dispose()
+	{
+		player.ValuesChanged -= () => NewItem();
+		player.ValuesChanged -= () => StateHasChanged();
+	}
 }

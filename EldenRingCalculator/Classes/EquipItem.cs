@@ -1,4 +1,7 @@
-﻿namespace EldenRingCalculator.Classes
+﻿using System.Runtime.CompilerServices;
+using System.Text.Json.Serialization;
+
+namespace EldenRingCalculator.Classes
 {
 	public class EquipItem
 	{
@@ -9,6 +12,11 @@
 		{
 			Name = name;
 			ItemType = type;
+		}
+
+		public virtual EquipItem Copy()
+		{
+			return (EquipItem)this.MemberwiseClone();
 		}
 	}
 }
