@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EldenRingCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cefe0cca8e0ae0d2fadeca91219d4e956b271b54")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e83cb16842045409725a7df2f5b39f189c07e66")]
 [assembly: System.Reflection.AssemblyProductAttribute("EldenRingCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EldenRingCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
